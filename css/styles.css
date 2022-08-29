@@ -1,0 +1,45 @@
+.container1{
+    padding: 6% 5%;
+    text-align: center;
+    }
+
+
+
+
+/*datos*/
+    .container2{
+        padding: 3% 3% 3% 3%;
+        text-align: center;
+        margin: -3% 10%;
+        border-radius: 10px;
+        background-color: #fff;
+        border-color: #00000015;
+        border: solid 1px;
+        position:relative;
+        z-index: 10;
+        }
+
+    .column-title{
+        text-align: left;
+        font-size: 14px;
+        font-weight: 700;
+        color: #6c757d;
+        border-right: solid 1px;
+        border-color: #00000041;
+        padding-left: 2%!important;
+    }
+
+
+    .column-data{
+        text-align: left;
+        font-size: 32px;
+        font-weight: 700;
+        color: #212529;
+        border-right: solid 1px;
+        border-color: #00000041;
+        padding-left: 2%!important;
+        }
+
+
+
+
